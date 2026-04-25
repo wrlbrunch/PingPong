@@ -7,6 +7,9 @@ Este projeto é uma releitura do clássico **Pong**, desenvolvida como o primeir
 * **Engine:** [LÖVE2D](https://love2d.org/)
 * **Biblioteca:** Push (para manter a resolução virtual retro)
 
+## Aviso Legal (Disclaimer)
+Este projeto possui caráter **estritamente educacional e não comercial**. Os arquivos de áudio incluídos (sons de *The Legend of Zelda* e *Sonic The Hedgehog*) são de propriedade da **Nintendo** e **SEGA**. O uso aqui é destinado apenas para fins de estudo e portfólio acadêmico, conforme as diretrizes de "fair use" para aprendizado.
+
 ## Como Jogar
 Para rodar este jogo, você precisa ter o **LÖVE2D** instalado em seu sistema.
 
